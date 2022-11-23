@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+    <listeners>
+        <listener class-name="listeners.TestFilterListener"/>
+    </listeners>
+    <test name="TobiCoiniOS" enabled="false">
+        <classes>
+            <class name="runners.TobiCoinChatbotRunners.TobiCoinChatbotIOSTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="IOS"/>
+            <parameter name="deviceName" value="iPhone 11"/>
+            <parameter name="platformVersion" value="14.6"/>
+            <parameter name="udid" value="00008030-001171D90291802E"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="IOS"/>
+            <parameter name="bundleID" value="com.vf.selfservisbeta"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+            <parameter name="xcodeOrgId" value="88D94536NH"/>
+            <parameter name="xcodeSigningId" value="iPhone Developer"/>
+            <parameter name="automationName" value="XCuiTest"/>
+            <parameter name="updatedWDABundleId" value="com.vftrauto.WebDriverAgentRunner"/>
+        </classes>
+    </test>
+
+    <test name="TobiCoinChatbotBetatest" enabled="true">
+        <classes>
+            <class name="runners.TobiCoinChatbotRunners.TobiCoinChatbotTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+<!--            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>-->
+<!--            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>-->
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+    <listeners>
+        <listener class-name="listeners.TestFilterListener"/>
+    </listeners>
+
+    <test name="PaymentSquad" enabled="false">
+        <classes>
+            <class name="runners.PaymentSquadRunners.PaymentSquadTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10LACZ"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10LACZ"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+
+    <test name="EShopBetatest" enabled="false">
+        <classes>
+            <class name="runners.EShopRunners.eShopTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10LACZ"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10LACZ"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="UpgradeSquadTest" enabled="false">
+        <classes>
+            <class name="runners.UpgradeSquadAndroidTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="988a9b394341464b5930"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="988a9b394341464b5930"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://0.0.0.0:1000/wd/hub"/>
+            <parameter name="TestName" value="Check Deep Link"/>
+        </classes>
+    </test>
+
+    <test name="TobiCoinChatbotBetatest" enabled="false">
+        <classes>
+            <class name="runners.TobiCoinChatbotRunners.TobiCoinChatbotTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="R5CRC3K4S5X"/>
+            <parameter name="platformVersion" value="12"/>
+            <parameter name="udid" value="R5CRC3K4S5X"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+
+    <listeners>
+        <listener class-name="listeners.TestFilterListener"/>
+    </listeners>
+
+    <test name="EShopBetatestiOS" enabled="false">
+        <classes>
+            <class name="runners.EShopRunners.eShopIOSTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="IOS"/>
+            <parameter name="deviceName" value="Automation iPhone'u"/>
+            <parameter name="platformVersion" value="14.4.2"/>
+            <parameter name="udid" value="620da61225c8b69ad8afaa91e9c10fd2e68f40a3"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="IOS"/>
+            <parameter name="bundleID" value="com.vf.selfservisbeta"/>
+            <parameter name="HubURL" value="http://127.0.0.1:4723/wd/hub"/>
+            <parameter name="xcodeOrgId" value="88D94536NH"/>
+            <parameter name="xcodeSigningId" value="iPhone Developer"/>
+            <parameter name="automationName" value="XCuiTest"/>
+            <parameter name="updatedWDABundleId" value="com.vftrauto.WebDriverAgentRunner"/>
+        </classes>
+    </test>
+
+
+    <test name="GrowthSquadAndroidTest" enabled="false">
+        <classes>
+            <class name="runners.GrowthSquadAndroidTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="1f8c64ca0408"/>
+            <parameter name="platformVersion" value="10"/>
+            <parameter name="udid" value="1f8c64ca0408"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+
+
+    <test name="ChatiumAndroidTest" enabled="false">
+        <classes>
+            <class name="runners.ChatiumRunners.ChatiumTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10MAED"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10MAED"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+
+    <test name="MyVodafoneAndroidTest" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundleAndroidTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10MAED"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10MAED"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+
+    <test name="ChabiAndroidTest" enabled="true">
+        <classes>
+            <class name="runners.ChabiRunners.ChabiTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="R5CRC3K4S5X"/>
+            <parameter name="platformVersion" value="12"/>
+            <parameter name="udid" value="R5CRC3K4S5X"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+
+    <test name="ChabiIOSTest" enabled="false">
+        <classes>
+            <class name="runners.ChabiRunners.ChabiIOSTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="IOS"/>
+            <parameter name="deviceName" value="00008101-000261942E99001E"/>
+            <parameter name="platformVersion" value="15.1"/>
+            <parameter name="automationName" value="xcuitest"/>
+            <parameter name="udid" value="00008101-000261942E99001E"/>
+            <parameter name="platformName" value="IOS"/>
+            <parameter name="bundleID" value="com.vf.selfservisbeta"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+            <parameter name="xcodeOrgId" value="88D945eiPhone Developer"/>
+            <parameter name="updatedWDABundleId" value="com.vftrauto.WebDriverAgentRunner"/>
+        </classes>
+    </test>
+
+    <test name="ChatiumiOS" enabled="false">
+        <classes>
+            <class name="runners.ChatiumRunners.ChatiumIOSTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="IOS"/>
+            <parameter name="deviceName" value="iPhone 11"/>
+            <parameter name="platformVersion" value="14.6"/>
+            <parameter name="udid" value="00008030-001171D90291802E"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="IOS"/>
+            <parameter name="bundleID" value="com.vf.selfservisbeta"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+            <parameter name="xcodeOrgId" value="88D94536NH"/>
+            <parameter name="xcodeSigningId" value="iPhone Developer"/>
+            <parameter name="automationName" value="XCuiTest"/>
+            <parameter name="updatedWDABundleId" value="com.vftrauto.WebDriverAgentRunner"/>
+        </classes>
+    </test>
+
+    <test name="TobiCoiniOS" enabled="false">
+        <classes>
+            <class name="runners.TobiCoinChatbotRunners.TobiCoinChatbotIOSTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="IOS"/>
+            <parameter name="deviceName" value="iPhone 11"/>
+            <parameter name="platformVersion" value="14.6"/>
+            <parameter name="udid" value="00008030-001171D90291802E"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="IOS"/>
+            <parameter name="bundleID" value="com.vf.selfservisbeta"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+            <parameter name="xcodeOrgId" value="88D94536NH"/>
+            <parameter name="xcodeSigningId" value="iPhone Developer"/>
+            <parameter name="automationName" value="XCuiTest"/>
+            <parameter name="updatedWDABundleId" value="com.vftrauto.WebDriverAgentRunner"/>
+        </classes>
+    </test>
+    <test name="ChatiumiOS" enabled="false">
+        <classes>
+            <class name="runners.ChatiumRunners.ChatiumIOSTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="IOS"/>
+            <parameter name="deviceName" value="Automation iPhone'u"/>
+            <parameter name="platformVersion" value="15.1.1"/>
+            <parameter name="udid" value="00008110-00022D2A3E29801E"/>
+<!--            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>-->
+<!--            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>-->
+            <parameter name="platformName" value="IOS"/>
+            <parameter name="bundleID" value="com.vf.selfservisbeta"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+            <parameter name="xcodeOrgId" value="88D94536NH"/>
+            <parameter name="xcodeSigningId" value="iPhone Developer"/>
+            <parameter name="automationName" value="XCuiTest"/>
+            <parameter name="updatedWDABundleId" value="com.vftrauto.WebDriverAgentRunner"/>
+        </classes>
+    </test>
+
+    <test name="TobiChatbotIOS" enabled="false">
+        <classes>
+            <class name="runners.ChatiumRunners.ChatiumIOSTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="IOS"/>
+            <parameter name="deviceName" value="Automation iPhone'u"/>
+            <parameter name="platformVersion" value="15.1.1"/>
+            <parameter name="udid" value="00008110-00022D2A3E29801E"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="IOS"/>
+            <parameter name="bundleID" value="com.vf.selfservisbeta"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+            <parameter name="xcodeOrgId" value="88D94536NH"/>
+            <parameter name="xcodeSigningId" value="iPhone Developer"/>
+            <parameter name="automationName" value="XCuiTest"/>
+            <parameter name="updatedWDABundleId" value="com.vftrauto.WebDriverAgentRunner"/>
+        </classes>
+    </test>
+
+    <test name="RegMyVodafonePrepaid" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundleAndroidTestRunner"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePrepaid_TC_01" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePrepaidRunner1"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePrepaid_TC_02" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePrepaidRunner2"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePrepaid_TC_03" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePrepaidRunner3"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePrepaid_TC_04" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePrepaidRunner4"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePrepaid_TC_05" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePrepaidRunner5"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePrepaid_TC_06" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePrepaidRunner6"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePrepaid_TC_07" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePrepaidRunner7"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePrepaid_TC_08" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePrepaidRunner8"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePrepaid_TC_09" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePrepaidRunner9"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="default" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundleAndroidTestRunner3"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="RegMyVodafonePostpaid" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundleAndroidTestRunner2"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePostpaid_TC_01" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePostpaidRunner1"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePostpaid_TC_02" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePostpaidRunner2"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePostpaid_TC_03" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePostpaidRunner3"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePostpaid_TC_04" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePostpaidRunner4"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePostpaid_TC_05" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePostpaidRunner5"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePostpaid_TC_06" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePostpaidRunner6"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePostpaid_TC_07" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePostpaidRunner7"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePostpaid_TC_08" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePostpaidRunner8"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+    <test name="MyVodafonePostpaid_TC_09" enabled="false">
+        <classes>
+            <class name="runners.MyVodafoneProdBundle.MyVodafoneProdBundlePostpaidRunner9"/>
+            <parameter name="ChooseDeviceRandom" value="false"/>
+            <parameter name="OSType" value="Android"/>
+            <parameter name="deviceName" value="RF8NC10L9ZP"/>
+            <parameter name="platformVersion" value="11"/>
+            <parameter name="udid" value="RF8NC10L9ZP"/>
+            <parameter name="appPackage" value="com.vodafone.selfservis.beta"/>
+            <parameter name="appActivity" value="com.vodafone.selfservis.modules.splash.activities.SplashActivity"/>
+            <parameter name="platformName" value="Android"/>
+            <parameter name="HubURL" value="http://10.86.163.18:80/wd/hub"/>
+        </classes>
+    </test>
+
+
+</suite>
