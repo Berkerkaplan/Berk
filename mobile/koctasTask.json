@@ -1,0 +1,1232 @@
+{
+  "pages": [
+    {
+      "pageInfo": {
+        "pageName": "koctassTask",
+        "parentName": "",
+        "waitElement": ""
+      },
+      "elements": [
+        {
+          "elementName": "my account button",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@resource-id='net.btpro.client.koctas:id/bottom_navigation_item_title']"
+        },
+        {
+          "elementName": "username text area",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//*[@resource-id='net.btpro.client.koctas:id/etInput'])[0]"
+        },
+        {
+          "elementName": "password text area",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//*[@resource-id='net.btpro.client.koctas:id/etInput'])[1]"
+        },
+        {
+          "elementName": "login button",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@resource-id='net.btpro.client.koctas:id/login_btn_login']"
+        },
+        {
+          "elementName": "main page button",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//*[@resource-id='net.btpro.client.koctas:id/bottom_navigation_item_title'])[0]"
+        },
+        {
+          "elementName": "my favorite list",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//*[@resource-id='net.btpro.client.koctas:id/search_src_text'])[1]"
+        },
+        {
+          "elementName": "search box",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@resource-id='net.btpro.client.koctas:id/search_src_text']"
+        },
+        {
+          "elementName": "control to zero product",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='0 ürün']"
+        },
+        {
+          "elementName": "categories button",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//*[@resource-id='net.btpro.client.koctas:id/search_src_text'])[1]"
+        },
+        {
+          "elementName": "heating and cooling button",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//*[@resource-id='net.btpro.client.koctas:id/category_name'])[2]"
+        },
+        {
+          "elementName": "klima button",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//*[@resource-id='net.btpro.client.koctas:id/container'])[9]"
+        },
+        {
+          "elementName": "see all of them button",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//*[@resource-id='net.btpro.client.koctas:id/container'])[2]"
+        },
+        {
+          "elementName": "choose first product",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//*[@resource-id='net.btpro.client.koctas:id/imageView'])[0]"
+        },
+        {
+          "elementName": "favorite icon",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//*[@resource-id='net.btpro.client.koctas:id/imageViewFavoriteIcon'])[0]"
+        },
+        {
+          "elementName": "create new list",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@resource-id='net.btpro.client.koctas:id/text_make_new_list']"
+        },
+        {
+          "elementName": "list name box",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@resource-id='net.btpro.client.koctas:id/text_make_new_list']"
+        },
+        {
+          "elementName": "save button",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@resource-id='net.btpro.client.koctas:id/text_make_new_list']"
+        },
+        {
+          "elementName": "info pop-up",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Bilgi']"
+        },
+        {
+          "elementName": "ok button",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@resource-id='net.btpro.client.koctas:id/md_button_positive']"
+        },
+        {
+          "elementName": "my list checkbox",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//*[@resource-id='net.btpro.client.koctas:id/checkBox'])[0]"
+        },
+        {
+          "elementName": "added product pop-up",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='ürünü listenize eklediniz']"
+        },
+        {
+          "elementName": "back button",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@resource-id='net.btpro.client.koctas:id/back']"
+        },
+        {
+          "elementName": "control to one product",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='1 ürün']"
+        },
+        {
+          "elementName": "my favorite list card",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//*[@resource-id='net.btpro.client.koctas:id/wishListContainer'])[0]"
+        },
+        {
+          "elementName": "my favorite product card",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//*[@resource-id='net.btpro.client.koctas:id/container'])[0]"
+        },
+        {
+          "elementName": "remove to favorite list",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//*[@resource-id='net.btpro.client.koctas:id/ivRemoveProduct'])[0]"
+        },
+        {
+          "elementName": "warning pop-up",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Uyarı']"
+        },
+        {
+          "elementName": "no product in your list text",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Listenizde ürün bulunmamaktadır']"
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+          "elementName": "ekPaketSatinAlMessage",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//android.view.View[contains(@text, 'ek paketler Vodafone')]"
+        },
+        {
+          "elementName": "tarifeBilgilerimButton",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Tarife Bilgilerim']"
+        },
+        {
+          "elementName": "tarifeBilgileriMessage",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='\u015Eu anda Red 25 GB tarifesindesiniz ve aktif bir tarife taahh\u00FCt\u00FCn\u00FCz bulunmuyor.']"
+        },
+        {
+          "elementName": "hemenAlButton",
+          "IOSType": "xpath",
+          "IOSValue": "(//XCUIElementTypeButton[@name=\"Hemen al\"])[1]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Hemen al']"
+        },
+        {
+          "elementName": "vazgecButton",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"Vazge\u00E7\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Vazge\u00E7']"
+        },
+        {
+          "elementName": "hayirButton",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name='Hay\u0131r']",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Hay\u0131r']"
+        },
+        {
+          "elementName": "tobiXButton",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name='cross closeTobi']",
+          "AndroidType": "xpath",
+          "AndroidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.widget.ImageView[2]"
+        },
+        {
+          "elementName": "baglantiProblemiMessage",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Ba\u011Flant\u0131 probleminizi hangi konuda ya\u015F\u0131yorsunuz?']"
+        },
+        {
+          "elementName": "internetOption/1-2",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"1-2\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='1-2']"
+        },
+        {
+          "elementName": "internetOption",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"\u0130nternet\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='\u0130nternet']"
+        },
+        {
+          "elementName": "SMSOption",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"SMS\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='SMS']"
+        },
+        {
+          "elementName": "KonusmaOption",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name='Konu\u015Fma']",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Konu\u015Fma']"
+        },
+        {
+          "elementName": "YurtDisiKullanimOption",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"Yurt d\u0131\u015F\u0131 kullan\u0131m\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Yurt d\u0131\u015F\u0131 kullan\u0131m']"
+        },{
+          "elementName": "YurtDisiKullanimOption/Seyahat",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"Yurt D\u0131\u015F\u0131 seyahati\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Yurt D\u0131\u015F\u0131 seyahati']"
+        },
+        {
+          "elementName": "YurtDisiPaketYonlendirme Message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"Yurt d\u0131\u015F\u0131nda kullanabilece\u011Finiz paketleri se\u00E7meniz i\u00E7in sizi y\u00F6nlendirmemi ister misiniz?\"]",
+          "AndroidType": "",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "interneteGiremiyorumOption",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"\u0130nternete giremiyorum\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='\u0130nternete giremiyorum' or contains(@text,'\u0130nternete giremiyorum')]"
+        },
+        {
+          "elementName": "internetProblemiMessage",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"Hangi tip internet ba\u011Flant\u0131 problemi ya\u015Fad\u0131\u011F\u0131n\u0131z\u0131 se\u00E7ebilir misiniz?\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Hangi tip internet ba\u011Flant\u0131 problemi ya\u015Fad\u0131\u011F\u0131n\u0131z\u0131 se\u00E7ebilir misiniz?']"
+        },
+        {
+          "elementName": "internetProblemiNeredeMessage",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"\u0130nternet probleminizi belirli bir yerde mi yoksa her yerde mi ya\u015F\u0131yorsunuz?\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='\u0130nternet probleminizi belirli bir yerde mi yoksa her yerde mi ya\u015F\u0131yorsunuz?']"
+        },
+        {
+          "elementName": "herYerdeOption",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"Her yerde\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Her yerde']"
+        },
+        {
+          "elementName": "internetProblemiKontrolMessage",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Hemen sorun ya\u015Fad\u0131\u011F\u0131n\u0131z yer ile ilgili \u00E7ekim g\u00FCc\u00FC kontrollerine ba\u015Flayay\u0131m')]"
+        },
+        {
+          "elementName": "konumSecButton",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Konumu Se\u00E7']"
+        },
+        {
+          "elementName": "internetProblemiSonucMessage",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='B\u00F6lgenizde ar\u0131za ya da planl\u0131 \u00E7al\u0131\u015Fma bulunmamaktad\u0131r.']"
+        },
+        {
+          "elementName": "mobilOdemeAcmaMessage",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Mobil \u00D6deme ile bir\u00E7ok anla\u015Fmal\u0131 i\u015F yerindeki \u00F6demelerinizi faturan\u0131za veya TL bakiyenize yans\u0131tabilirsiniz.']"
+        },
+        {
+          "elementName": "mobilOdemeAcmaSuccessMessage",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Hatt\u0131n\u0131z\u0131n mobil \u00F6demeye a\u00E7\u0131k oldu\u011Funu g\u00F6r\u00FCyorum.']"
+        },
+        {
+          "elementName": "vodafoneTVSporPaketi",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Vodafone TV Spor Paketi']"
+        },
+        {
+          "elementName": "vodafoneTVFullPaket",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Vodafone TV Full Paket']"
+        },
+        {
+          "elementName": "vodafoneTVMessage",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='\u0130\u015Fleminiz sonucunda Vodafone TV Full Paket paketi iptal edilecektir.Vodafone TV Full Paket paketi sat\u0131n al\u0131nacakt\u0131r.']"
+        },
+        {
+          "elementName": "satinAlButton",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Sat\u0131n al']"
+        },
+        {
+          "elementName": "tobi button",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Sat\u0131n al']"
+        },
+        {
+          "elementName": "tobi welcome message",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'ben TOBi') or contains(@name,'ben dijital asistan\u0131n\u0131z TOBi')]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'ben TOBi') or contains(@text,'ben dijital asistan\u0131n\u0131z TOBi')]"
+        },
+        {
+          "elementName": "first time tobi message1",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Fatura detaylar\u0131ndan size \u00F6zel tekliflere bakiye sorgulamadan kapsama kontrollerine bir\u00E7ok konuda e\u011Fitildim.')]"
+        },
+        {
+          "elementName": "first time tobi message2",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Her ge\u00E7en g\u00FCn de kendimi geli\u015Ftirmeye devam ediyorum')]"
+        },
+        {
+          "elementName": "first time tobi message3",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'\u0130sterseniz hemen bir \u00F6rnekle deneyelim...')]"
+        },
+        {
+          "elementName": "first time tobi message4",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'\u00D6rne\u011Fin bana son faturan\u0131z\u0131 sorun, ben de size fatura bilgilerinizi g\u00F6stereyim.')]"
+        },
+        {
+          "elementName": "atla text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"Atla\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Atla')]"
+        },
+        {
+          "elementName": "aktif paketlerim",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'Aktif ek paketlerim') or contains(@text,'Aktif ek paketlerim') or @text='Aktif ek paketlerim' or @text='Aktif Ek Paketlerim']",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Aktif ek paketlerim') or contains(@text,'Aktif ek paketlerim') or @text='Aktif ek paketlerim' or @text='Aktif Ek Paketlerim']"
+        },
+        {
+          "elementName": "sahip oldugunuz text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Sahip oldu\u011Funuz paketleri a\u015Fa\u011F\u0131da listeliyorum' or contains(@text,'paketleri a\u015Fa\u011F\u0131da listeliyorum')]"
+        },
+        {
+          "elementName": "cancel button text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='\u0130ptal et']"
+        },
+        {
+          "elementName": "iptal et text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='\u0130ptal et']"
+        },
+        {
+          "elementName": "talebiniz alinmistir",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'Talebiniz alınmıştır.')]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Talebiniz al\u0131nm\u0131\u015Ft\u0131r.')]"
+        },
+        {
+          "elementName": "baglanti problemi text",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'Bağlantı probleminizi hangi konuda yaşıyorsunuz?')]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Ba\u011Flant\u0131 probleminizi hangi konuda ya\u015F\u0131yorsunuz?')]"
+        },
+        {
+          "elementName": "uygulamayi kullanirken button text",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'Uygulamayı kullanırken')]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Uygulamay\u0131 kullan\u0131rken')]"
+        },
+        {
+          "elementName": "cark cevirme message",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'Size özel hediler verebilmek için çalışmalarıma devam ediyorum.')]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Size \u00F6zel hediler verebilmek i\u00E7in \u00E7al\u0131\u015Fmalar\u0131ma devam ediyorum.')]"
+        },
+        {
+          "elementName": "cark cevirme message2",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[contains(@name,'E\u011Fer bu hafta \u00E7ark\u0131 \u00E7evirmediyseniz')]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'E\u011Fer bu hafta \u00E7ark\u0131 \u00E7evirmediyseniz,')]"
+        },
+        {
+          "elementName": "evet button",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name='Evet']",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Evet']"
+        },
+        {
+          "elementName": "cark cevirme button",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//android.widget.ImageView[@content-desc='\u00E7ark \u00E7evirme alan\u0131 d\u00FC\u011Fme']"
+        },
+        {
+          "elementName": "bu haftaki hediyem text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Bu haftaki hediye')]"
+        },
+        {
+          "elementName": "arkadasini davet et message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Davet Et Kazan ile hem arkada\u015F\u0131n\u0131 Vodafone’a davet edenler hem de davet linkine t\u0131klayarak Vodafone’lu olan arkada\u015Flar\u0131 3 Ay ge\u00E7erli 15GB hediye internet kazan\u0131yorlar. Kampanya ko\u015Fullar\u0131n\u0131 incelemek ve kampanyaya kat\u0131lmak i\u00E7in a\u015Fa\u011F\u0131daki butona t\u0131klaman\u0131z yeterli')]"
+        },
+        {
+          "elementName": "arkadasini davet et text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"Arkada\u015F\u0131n\u0131 Davet Et\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Arkada\u015F\u0131n\u0131 Davet Et')]"
+        },
+        {
+          "elementName": "firsatlar dunyasi message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"F\u0131rsatlar D\u00FCnyas\u0131\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Vodafone'a \u00F6zel ayr\u0131cal\u0131klar F\u0131rsatlar D\u00FCnyas\u0131 sayfas\u0131nda sizi bekliyor. Sizi f\u0131rsatlar d\u00FCnyas\u0131na y\u00F6nlendirmemi ister misiniz?')]"
+        },
+        {
+          "elementName": "firsatlar dunyasi",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"F\u0131rsatlar D\u00FCnyas\u0131\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'F\u0131rsatlar D\u00FCnyas\u0131')]"
+        },
+        {
+          "elementName": "bu haftaki hediyem text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Bu haftaki hediyeni almak i\u00E7in hemen \u00E7evir!']"
+        },
+        {
+          "elementName": "bu haftaki hediyem close button",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "id",
+          "AndroidValue": "com.vodafone.selfservis.beta:id/tooltipCloseIV"
+        },
+        {
+          "elementName": "cark",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@resource-id='com.vodafone.selfservis.beta:id/wheelMenu' or @resource-id='com.vodafone.selfservis.beta:id/logoIV']"
+        },
+        {
+          "elementName": "approve button",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Tamam']"
+        },
+        {
+          "elementName": "bunu duyduguma uzuldum message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"Bunu duydu\u011Fuma \u00E7ok \u00FCz\u00FCld\u00FCm :(\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Bunu duydu\u011Fuma \u00E7ok \u00FCz\u00FCld\u00FCm')]"
+        },
+        {
+          "elementName": "hat iptali yardimci olamiyorum message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[contains(@name,\"Hen\u00FCz hat iptali ile ilgili i\u015Flemlerde yard\u0131mc\u0131 olam\u0131yorum.\")]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Hen\u00FCz hat iptali ile ilgili i\u015Flemlerde yard\u0131mc\u0131 olam\u0131yorum.')]"
+        },
+        {
+          "elementName": "help page",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"help iconTobiHelp\"]",
+          "AndroidType": "id",
+          "AndroidValue": "com.vodafone.selfservis.beta:id/imgBtnQuestionMark"
+        },
+        {
+          "elementName": "ornekleri listeliyorum message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"Bana sorabilece\u011Finiz baz\u0131 \u00F6rnekleri listeliyorum:\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Bana sorabilece\u011Finiz baz\u0131 \u00F6rnekleri listeliyorum:') or @text='Bana sorabilece\u011Finiz baz\u0131 \u00F6rnekleri listeliyorum:']"
+        },
+        {
+          "elementName": "telefon almak istiyorum message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Telefon almak istiyorum right' or contains(@text,'Telefon almak istiyorum')]"
+        },
+        {
+          "elementName": "tarifem ne message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"Tarifem ne? right\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Tarifem ne') or @text='Tarifem ne? right']"
+        },
+        {
+          "elementName": "ne kadar internetim kalmis text",
+          "IOSType": "xpath",
+          "IOSValue": " //XCUIElementTypeButton[@name=\"Ne kadar internetim kalm\u0131\u015F? right\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Tarifem ne') or @text='Tarifem ne? right']"
+        },
+        {
+          "elementName": "hediye carki text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"Hediye \u00E7ark\u0131? right\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Tarifem ne') or @text='Tarifem ne? right']"
+        },
+        {
+          "elementName": "TL yuklemek istiyorum text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"TL y\u00FCklemek istiyorum right\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Tarifem ne') or @text='Tarifem ne? right']"
+        },
+        {
+          "elementName": "kolay paketleri gormek istiyorum text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"Kolay paketleri g\u00F6rmek istiyorum right\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Tarifem ne') or @text='Tarifem ne? right']"
+        },
+        {
+          "elementName": "tarifem ne message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"Tarifem ne? right\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Tarifem ne') or @text='Tarifem ne? right']"
+        },
+        {
+          "elementName": "ek paket iptal talebi message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Sat\u0131n ald\u0131\u011F\u0131n\u0131z haftal\u0131k veya ayl\u0131k tekrar etmeyen ek paketlerin kullan\u0131m s\u00FCresi, sona erdi\u011Finde otomatik iptal olacakt\u0131r.')]"
+        },
+        {
+          "elementName": "ek paket iptal talebi message2",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'iptal etmek istedi\u011Finiz ek paketin alt\u0131ndaki buton yard\u0131m\u0131 ile i\u015Fleminizi ger\u00E7ekle\u015Ftirebilirsiniz.')]"
+        },
+        {
+          "elementName": "aktif ek paketlerim",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"Aktif ek paketlerim\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Aktif ek paketlerim']"
+        },
+        {
+          "elementName": "fatura odeme talebi message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name='Fatura \u00D6deme i\u015Flemlerini hen\u00FCz ben yapam\u0131yorum ama sizi ilgili sayfaya y\u00F6nlendirmemi ister misiniz?']",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Fatura \u00D6deme i\u015Flemlerini hen\u00FCz ben yapam\u0131yorum ama sizi ilgili sayfaya y\u00F6nlendirmemi ister misiniz?']"
+        },
+        {
+          "elementName": "aylik tarife ucreti text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name='Ayl\u0131k Tarife \u00DCcreti']",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Ayl\u0131k Tarife \u00DCcreti']"
+        },
+        {
+          "elementName": "ek kullanimlar text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name='Ek Kullan\u0131mlar']",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Ek Kullan\u0131mlar']"
+        },
+        {
+          "elementName": "tarife kampanya tarihi message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name='Size \u00F6nerebilece\u011Fim di\u011Fer tarife tekliflerimizi incelemek ister misiniz?']",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Size \u00F6nerebilece\u011Fim di\u011Fer tarife tekliflerimizi incelemek ister misiniz?']"
+        },
+        {
+          "elementName": "fatura kontrol message",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'Faturan\u0131z\u0131 kontrol ediyorum')]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Faturan\u0131z\u0131 kontrol ediyorum')]"
+        },
+        {
+          "elementName": "guncel tutar",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name='G\u00FCncel Tutar']",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='G\u00FCncel Tutar']"
+        },
+        {
+          "elementName": "kalan kullanimlarim message",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'Hemen kalan kullan\u0131m')]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Hemen kalan kullan\u0131m')]"
+        },
+        {
+          "elementName": "gb",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'GB')]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'GB')]"
+        },
+        {
+          "elementName": "dk",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'DK')]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'DK')]"
+        },
+        {
+          "elementName": "sms",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'SMS')]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'SMS')]"
+        },
+        {
+          "elementName": "internet text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name='\u0130nternet']",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'GB')]"
+        },
+        {
+          "elementName": "konusma text",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'Konu\u015Fma')]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'DK')]"
+        },
+        {
+          "elementName": "sms text",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'SMS')]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'SMS')]"
+        },
+        {
+          "elementName": "detaylariGor",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Detaylar\u0131 g\u00F6r down']"
+        },
+        {
+          "elementName": "detaylari goster button",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name='Detaylar\u0131 g\u00F6r\u00FCnt\u00FCle down']",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Detaylar\u0131 g\u00F6r\u00FCnt\u00FCle down']"
+        },
+        {
+          "elementName": "tobiOTP",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.EditText[1]"
+        },
+        {
+          "elementName": "NewCloseIcon",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue":"//android.view.View[@content-desc='cancel']"
+        },
+        {
+          "elementName": "faturaTarihiInfo",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'Fatura kesim tarihiniz')]",
+          "AndroidType": "xpath",
+          "AndroidValue":"//*[contains(@text,'Fatura kesim tarihiniz')]"
+        },
+        {
+          "elementName": "fatura kesim tarihi text",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'Fatura kesim tarihi:')]",
+          "AndroidType": "xpath",
+          "AndroidValue":"//*[contains(@text,'Fatura kesim tarihiniz')]"
+        },
+        {
+          "elementName": "odenme tarihi text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name='\u00D6denme tarihi']",
+          "AndroidType": "xpath",
+          "AndroidValue":""
+        },
+        {
+          "elementName": "konusmaCard",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'Dakika')]",
+          "AndroidType": "xpath",
+          "AndroidValue":"//*[contains(@text,'Dakika')]"
+        },
+        {
+          "elementName": "smsCard",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'SMS')]",
+          "AndroidType": "xpath",
+          "AndroidValue":"//*[contains(@text,'SMS')]"
+        },
+        {
+          "elementName": "internetCard",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'\u0130nternet')]",
+          "AndroidType": "xpath",
+          "AndroidValue":"//*[contains(@text,'\u0130nternet')]"
+        },
+        {
+          "elementName": "guncelBakiyeCard",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'G\u00FCncel Bakiye')]",
+          "AndroidType": "xpath",
+          "AndroidValue":"//*[contains(@text,'G\u00FCncel Bakiye')]"
+        },
+        {
+          "elementName": "hattinizin gorusmeye acik text",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'Hatt\u0131n\u0131z\u0131n g\u00F6r\u00FC\u015Fmeye a\u00E7\u0131k')]",
+          "AndroidType": "xpath",
+          "AndroidValue":"//*[contains(@text,'Hatt\u0131n\u0131z\u0131n g\u00F6r\u00FC\u015fmeye a\u00E7\u0131k')]"
+        },
+        {
+          "elementName": "faturaCard",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'Fatura kesim tarihi')]",
+          "AndroidType": "xpath",
+          "AndroidValue":"//*[contains(@text,'Fatura kesim tarihi')]"
+        },
+        {
+          "elementName": "tariffInfo",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'\u015Eu anda')]",
+          "AndroidType": "xpath",
+          "AndroidValue":"//*[contains(@text,'\u015Eu anda')]"
+        },
+        {
+          "elementName": "tariffDetailInfo",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'Tarifenizde ise')]",
+          "AndroidType": "xpath",
+          "AndroidValue":"//*[contains(@text,'Tarifenizde ise')]"
+        },
+        {
+          "elementName": "sonOdemeTarihiInfo",
+          "IOSType": "xpath",
+          "IOSValue": "//*[contains(@name,'faturan\u0131z\u0131n son \u00F6deme tarihi')]",
+          "AndroidType": "xpath",
+          "AndroidValue":"//*[contains(@text,'faturan\u0131z\u0131n son \u00F6deme tarihi')]"
+        }
+      ,
+        {
+          "elementName": "devicePurchaseMessage",
+          "IOSType": "",
+          "IOSValue": "",
+          "AndroidType": "xpath",
+          "AndroidValue":"//*[contains(@text,'Faturas\u0131z hat m\u00FC\u015Fterileri cihaz kampanyas\u0131ndan faydalanam\u0131yor.')]"
+        }
+      ,
+        {
+          "elementName": "garantiCreditCardOption",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'creditCardImage Gar 428220********15')]"
+        },
+        {
+          "elementName": "creditCardContractCheckBox",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@class,'android.widget.CheckBox']"
+        }
+      ,
+        {
+          "elementName": "kolayPaketSatinAlButton",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Sat\u0131n al']"
+        }
+      ,
+        {
+          "elementName": "onaylaButton",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Onayla']"
+        },
+        {
+          "elementName": "KolayPackPurchaseSuccessMessage",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Sat\u0131n alma i\u015Fleminiz ba\u015Far\u0131yla ger\u00E7ekle\u015Fmi\u015Ftir.']"
+        },{
+          "elementName": "tlYuklemeButton",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='TL y\u00FCkleme']"
+        },
+        {
+          "elementName": "tlAmount",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='40 TL']"
+        },
+        {
+          "elementName": "yukleButton",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@resource-id='purchaseButton4000']"
+        },
+        {
+          "elementName": "GBpreference",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View[3]/android.view.View[3]"
+        },
+        {
+          "elementName": "tariffCard",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View[1]/android.view.View"
+        },
+        {
+          "elementName": "tarifeleriGosterButton",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Tarifeleri g\u00F6ster']"
+        }
+      ,
+        {
+          "elementName": "tarifemiDegistirButton",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Tarifemi de\u011Fi\u015Ftir']"
+        }
+      ,
+        {
+          "elementName": "tarifeDegisikligiOnayMessage",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Tarife degisikligi talebiniz alinmistir. Talebiniz tamamlandiginda SMS ile bilgilendirileceksiniz.']"
+        },
+        {
+          "elementName": "YurtDisiKullanimOption/Arama",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"Yurt d\u0131\u015F\u0131n\u0131 arama\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Yurt d\u0131\u015F\u0131n\u0131 arama']"
+        },
+        {
+          "elementName": "above40TlPackage",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUI",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='₺66']"
+        },
+        {
+          "elementName": "bilgi message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name='\u0130\u015Fleminizi, iptal etmek istedi\u011Finiz ek paketin alt\u0131ndaki buton yard\u0131m\u0131 ile ger\u00E7ekle\u015Ftirebilirsiniz.']",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "ek paket iptal button",
+          "IOSType": "xpath",
+          "IOSValue": "(//XCUIElementTypeButton[@name='\u0130ptal et'])[1]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "iptal bilgi message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[contains(@name,'paketiniz iptal edilecektir.')]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "ek paket iptal button2",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name='\u0130ptal Et']",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "ek paket iptal vazgec button",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name='Vazge\u00E7']",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "hattim cekmiyor bilgi message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"Bunu duydu\u011Fuma \u00FCz\u00FCld\u00FCm. \u0130leti\u015Fimizin devam etmesi bizim i\u00E7in \u00F6nemli. Sorununuzu \u00E7\u00F6zebilmek ad\u0131na hangi tip konuda problem ya\u015F\u0131yorsunuz?\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "konum izin ver",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name='Uygulamay\u0131 Kullan\u0131rken \u0130zin Ver']",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "konum tamam button",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name='Tamam']",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "select location button",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name='Konumu Se\u00E7']",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "cark cevirme message1",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"Size \u00F6zel hediyeler verebilmek i\u00E7in \u00E7al\u0131\u015Fmalar\u0131ma devam ediyorum.\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "kapat button",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"Art\u0131k buraday\u0131m!\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "artik buradayim text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"Art\u0131k buraday\u0131m!\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "cark icon",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"\u00C7ark \u00E7evirme alan\u0131\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "cark cevir message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"Hediye kazanmak i\u00E7in \u00E7ark\u0131 \u00E7evirin\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "cekim gucu kontrolleri text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"Hemen sorun ya\u015Fad\u0131\u011F\u0131n\u0131z yer ile ilgili \u00E7ekim g\u00FCc\u00FC kontrollerine ba\u015Flayay\u0131m. Kontrollerinize ba\u015Flamadan \u00F6nce sorun ya\u015Fad\u0131\u011F\u0131n\u0131z konum bilgisini payla\u015Fman\u0131z gerekmektedir. A\u015Fa\u011F\u0131daki haritadan ba\u011Flant\u0131 problemi ya\u015Fad\u0131\u011F\u0131n\u0131z konumu i\u015Faretler misiniz?\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "iptal etme sayfas\u0131na y\u00F6nlendirme text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[contains(@name,'iptal etmek istedi\u011Finiz paketi se\u00E7ip \"iptal et\" butonuna dokunman\u0131z yeterli.')]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "m\u00FCsteri hizmetleri baglanma text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"Destek alabilmeniz i\u00E7in sizi m\u00FC\u015Fteri hizmetleri'ne ba\u011Flanmam\u0131 ister misiniz?\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "direct to call 542 text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeTextView[@name=\"Sizi 542'yi aramak i\u00E7in y\u00F6nlendirece\u011Fim.\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "do you want to continue text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeTextView[@name=\"Devam etmek istiyor musunuz?\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "continue button",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"Devam et\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "cancel button",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"Vazge\u00E7\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "ekpaketOption",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name='Ek paketler']",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Ek paketler']"
+        },
+        {
+          "elementName": "koruma ozelligi text",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[contains(@name,'Koruma \u00D6zelli\u011Fi')]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[contains(@text,'Koruma \u00D6zelli\u011Fi')]"
+        },
+        {
+          "elementName": "ek paket turlerini listeliyorum message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"Alabilece\u011Finiz ek paket t\u00FCrlerini a\u015Fa\u011F\u0131da listeliyorum:\"]",
+          "AndroidType": "",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "tarihe gore option",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"Tarihe g\u00F6re\" or @name=\"Tarihe G\u00F6re\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text=\"Tarihe göre\" or @text=\"Tarihe Göre\"]"
+        },
+        {
+          "elementName": "sana ozel option",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeButton[@name=\"Sana özel\" or @name=\"Sana özel\"]",
+          "AndroidType": "xpath",
+          "AndroidValue": "(//android.widget.Button)[3]"
+        },
+        {
+          "elementName": "ek paket gb araligi message",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name=\"A\u015Fa\u011F\u0131daki se\u00E7enekler yard\u0131m\u0131 ile sat\u0131n almak istedi\u011Finiz ek paketin GB aral\u0131\u011F\u0131n\u0131 belirleyebilirsiniz.\"]",
+          "AndroidType": "",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "yurtdisi kullanim paketleri page title",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name='Yurtd\u0131\u015F\u0131nda kullan\u0131m paketleri']",
+          "AndroidType": "",
+          "AndroidValue": ""
+        },
+        {
+          "elementName": "MainAccount",
+          "IOSType": "xpath",
+          "IOSValue": "//XCUIElementTypeStaticText[@name='Hesab\u0131m']",
+          "AndroidType": "xpath",
+          "AndroidValue": "//*[@text='Hesab\u0131m' or @text='Account' or @resource-id='com.vodafone.selfservis.beta:id/tabItem1']"
+        }
+      ]
+    }
+  ]
+}

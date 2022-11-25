@@ -1,0 +1,80 @@
+{
+  "pages": [
+    {
+      "pageInfo": {
+        "pageName": "koctasTask",
+        "parent": "",
+        "waitelement": ""
+      },
+      "elements": [
+        {
+          "koctas main page": "//a[@title='Koçtaş']"
+        },
+        {
+          "login or register button": "//*[@class='col-10 col-lg-6 d-flex justify-content-end order-lg-last module-bar1']//div//div"
+        },
+        {
+          "login to app button": "//*[@href='/login' and contains(text(),'Giriş Yap')]"
+        },
+        {
+          "cookie accept button": "//*[@class='banner__accept-button']"
+        },
+
+        {
+          "username text area": "//*[@id='j_username']"
+        },
+        {
+          "password text area": "//*[@id='j_password']"
+        },
+        {
+          "login button": "//*[@id='loginButton']"
+        },
+        {
+          "search box": "//*[@id='searchBoxComponentID']//input"
+        },
+        {
+          "search button": "//form[@id='searchForm_SearchBox']//button[@type='submit']"
+        },
+        {
+          "gardıroplar text": "//h1[contains(text(),'Gardıroplar')]"
+        },
+        {
+          "second page button": "//*[@href='/mobilya/gardiroplar/c/109011?page=2']"
+        },
+        {
+          "add to favorites button": "(//*[@class='prd col-12 px-5 py-10 col-lg-8 px-lg-20 py-lg-5 gtmProductClick'])[3]//a[@class='gtmAddToFavorites addToFavoritesButton']"
+        },
+        {
+          "my favorites button": "//*[@id='whishlist-list']//label"
+        },
+        {
+          "save button": "//button[@class='btn btn-c11 d-flex mb-5 modal-footer-btn w-100 wishlist-product-add-button']"
+        },
+        {
+          "my account button": "//*[@class='d-flex align-items-center']"
+        },
+        {
+          "my favorite list button": "//*[@href='/my-account/lists' and contains(text(),'Favori Listem')]"
+        },
+        {
+          "my favorite list text": "//*[contains(text(),'Favori Listelerim')]"
+        },
+        {
+          "product text": "//*[contains(text(),'1 ürün')]"
+        },
+        {
+          "create new list text": "//*[contains(text(),'Yeni Liste ')]"
+        },
+        {
+          "favorite product": "//*[@class='wishlist-wrap-item col-24 col-lg-8 my-10 px-10']"
+        },
+        {
+          "remove to favorites button": "//*[@class='prd col-12 px-5 py-10 col-lg-8 px-lg-20 py-lg-5 gtmProductClick']//*[@class='gtmAddToFavorites addToFavoritesButton']"
+        },
+        {
+          "check favorite product text": "//*[contains(text(),'Listenizde ürün bulunmamaktadır.')]"
+        }
+      ]
+    }
+  ]
+}
